@@ -1,0 +1,6 @@
+name: krakatoa
+recipe: pantheon
+config:
+  framework: wordpress
+  site: krakatoa
+  id: cf8cb434-5f11-43f5-a06e-33eca5bc3678
